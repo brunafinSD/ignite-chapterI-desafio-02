@@ -2,8 +2,9 @@
 
 ## Sobre o Projeto:
 WatchMe é um projeto de listagem de filmes.
-A interface possuí um menu navegável com as opções de categorias, selecionando a categoria, os filmes respectivos a ela aparecem no dashboard.
-esse projeto foi desenvolvido durante o Ignite 2021 na trilha de ReactJS para praticar a funcionalidade de componentização.
+A interface possuí um menu navegável com as opções de categorias.
+Selecionando a categoria, os filmes respectivos a ela aparecem no dashboard.
+Esse projeto foi desenvolvido durante o Ignite 2021 na trilha de ReactJS para praticar a funcionalidade de componentização.
 
 ## Como executar
 Clone o projeto e acesse a pasta do mesmo.
@@ -22,4 +23,4 @@ $ yarn
 - A aplicação estará disponível no seu browser pelo endereço http://localhost:8080
 
 ## Imagem
-![Screenshot](watcheMe.png)
+![Screenshot](watchMe.png)
